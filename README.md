@@ -32,3 +32,9 @@ Day 2
 14.Cloning of a VM
 
 15.Hardware compatability
+
+Day 3
+
+12.IaaS by creating a resource group
+
+13.Virtual machine using a public cloud service provider
